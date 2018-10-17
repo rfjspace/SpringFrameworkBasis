@@ -13,7 +13,7 @@
 		<form:input path="id" />
 		<form:label path="name">NAME : </form:label>
 		<form:input path="name" />
-		<form:label path="password">PASSWORDa : </form:label>
+		<form:label path="password">PASSWORD : </form:label>
 		<form:input path="password" />
 		<input type="submit" value="SUBMIT" />
 	</form:form>
